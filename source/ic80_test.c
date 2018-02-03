@@ -1,6 +1,6 @@
-//--- Char PCI device PCI driver test for IC80v5 POST diagnostics card -
+//--- Char PCI device PCI driver test for IC80v5 POST diagnostics card ---
 //--- Created by IC Book Labs, thanks Derek Molloy example ---
-//--- This is 8-bit version, see also 16-bit ---
+//--- This is combined version (8+16 bit), see also 8 and 16-bit ---
 
 #include<stdio.h>
 #include<stdlib.h>
